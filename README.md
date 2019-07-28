@@ -7,6 +7,8 @@ List of Cryptocurrencies:
 https://coinmarketcap.com/<br>
 https://coinwik.org/List_of_all_DCs<br>
 https://cryptocurrencies.net/<br>
+https://www.cryptocompare.com/<br>
+https://coinranking.com/<br>
 https://en.wikipedia.org/wiki/List_of_cryptocurrencies<br>
 
 Latest news:
@@ -16,6 +18,10 @@ https://www.coindesk.com/<br>
 https://cryptocurrencynews.com/<br>
 https://cryptonews.com/<br>
 https://www.crypto-news.net/<br>
+https://www.cryptonewsz.com/<br>
+https://www.ccn.com/crypto/<br>
+https://decrypt.co/<br>
+https://www.theblockcrypto.com/<br>
 https://www.reddit.com/r/CryptoCurrency/<br>
 
 
