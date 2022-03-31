@@ -1,11 +1,11 @@
 #!/bin/sh
 
-git clone git://github.com/walletgeneratornet/WalletGenerator.git
-git clone git://github.com/bitbandi/UniversalWalletGenerator.git
-git clone git://github.com/pwall-org/pwall.git
-git clone git://github.com/alkley/paper-wallet-print.git
-git clone git://github.com/AngryDeskNinja/kagit-cuzdan.git
-git clone git://github.com/hubernautmartin/generator.git
+git clone https://github.com/walletgeneratornet/WalletGenerator
+git clone https://github.com/bitbandi/UniversalWalletGenerator
+git clone https://github.com/pwall-org/pwall
+git clone https://github.com/alkley/paper-wallet-print
+git clone https://github.com/AngryDeskNinja/kagit-cuzdan
+git clone https://github.com/hubernautmartin/generator
 
 
 
