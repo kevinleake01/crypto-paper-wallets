@@ -1,5 +1,5 @@
 #!/bin/sh
 
-wget https://bcnpaper.post.io/bcn-paper-wallet.zip
-git clone https://github.com/moneropaperwallet/moneropaperwallet.github.io
-
+git clone https://github.com/cryptonotefoundation/cryptonote
+git clone https://github.com/bcndev/bytecoin
+git clone https://github.com/monero-project/monero

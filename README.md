@@ -5,8 +5,6 @@ This is the place to be if you want to generate Crypto Paper Wallets!
 List of Cryptocurrencies:
 
 https://coinmarketcap.com/<br>
-https://coinwik.org/List_of_all_DCs<br>
-https://cryptocurrencies.net/<br>
 https://www.cryptocompare.com/<br>
 https://coinranking.com/<br>
 https://en.wikipedia.org/wiki/List_of_cryptocurrencies<br>
