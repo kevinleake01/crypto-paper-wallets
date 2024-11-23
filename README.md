@@ -19,7 +19,7 @@ https://www.crypto-news.net/<br>
 https://www.cryptonewsz.com/<br>
 https://www.ccn.com/crypto/<br>
 https://decrypt.co/<br>
-https://www.theblockcrypto.com/<br>
+https://www.theblock.co/<br>
 https://www.reddit.com/r/CryptoCurrency/<br>
 
 
